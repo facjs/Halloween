@@ -2,7 +2,7 @@
 
 ### Características
 
--   Sitio web responsivo navideño.
+-   Sitio web responsivo halloween.
 -   HTML CSS & Javascript
 -   Smooth scrolling en cada sección.
 -   Animaciones al scrollear.
